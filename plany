@@ -1,0 +1,5 @@
+mkdir plany
+touch plany/.gitkeep
+git add .
+git comit -m "Dodano folder plany"
+git push
